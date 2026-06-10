@@ -1,1 +1,2 @@
 this is the text inside file
+Now this text is added later to make a new commit
